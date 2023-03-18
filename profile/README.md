@@ -1,3 +1,5 @@
+# PrCore
+
 PrCore is a backend application used for prescriptive process monitoring. 
 It takes historical event log files and provides ongoing case prescriptions based on the 
 received event streaming data or new event log dataset. 

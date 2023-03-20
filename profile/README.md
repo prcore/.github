@@ -19,4 +19,4 @@ Please check out following links for more information:
 - Documentation: [https://prcore-docs.chaos.run](https://prcore-docs.chaos.run)
 - Demo API: [https://prcore.chaos.run](https://prcore.chaos.run)
 
-PrCore is licensed under the [MIT License](LICENSE).
+PrCore is licensed under the [MIT License](https://github.com/prcore/prcore/blob/main/LICENSE).
